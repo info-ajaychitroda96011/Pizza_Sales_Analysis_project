@@ -1,8 +1,8 @@
 # 📊 Pizza Sales Analysis Dashboard (Power BI)
 
 ## 📸 Dashboard Screenshots
-![Pizza Sales Dashboard - Home](Dashboard-1.png)
-![Pizza Sales Dashboard - Best & Worst Sellers](Dashboard-2.png)
+![Pizza Sales Dashboard - Home](Home.png)
+![Pizza Sales Dashboard - Best & Worst Sellers](Best and Worst.png)
 
 ## 📌 Project Overview
 - This interactive Power BI dashboard analyzes pizza sales performance across multiple dimensions such as revenue, orders, quantity sold, pizza category, and pizza size.
