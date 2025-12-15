@@ -49,4 +49,4 @@
 
 ## 👤 Author
 **Ajay Chitroda**  
-Data Analyst | Aspiring Data Scientist  
+Data Analyst | Data Scientist  
